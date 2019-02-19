@@ -1,0 +1,14 @@
+3baedc0dca019d6f43abb8b8dedfc566 *DESCRIPTION
+66c3594d60de03b1e4ee19ce1843c588 *NAMESPACE
+470623130baa06f2d47642f022cdc53e *R/amplify.R
+595bfd8c784c233e4921ef70012bf1af *R/mscoreInternal.R
+709e8bc37ed2f8c90799f90a099c6a0d *R/sen.R
+7a6e0c389e08a8138d3ad8905cc7024f *R/senCI.R
+c931c50d5773a5ee50d58521200db83d *R/separable1v.R
+b3eeda78d97e1c30d449386cbb7da8ed *data/nh1and3.rda
+3c59cc5aef1048102ae22d021cd96ba0 *man/amplify.Rd
+f9304ec06dd0daf1805cc3b01d3b917e *man/mscoreInternal.Rd
+50ea89b7455606b2a2c8fca8959db4de *man/nh1and3.Rd
+4363ae7e5e8dec76f7ec307aa68cacd3 *man/sen.Rd
+4a10d1057c97ea1b856e18b88c36210b *man/senCI.Rd
+f3bf6e50963a6eb31896635346dc7e33 *man/separable1v.Rd
